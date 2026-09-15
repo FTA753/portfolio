@@ -1,7 +1,5 @@
-# Fon Anye’s portfolio
+# Portfolio
 
-[View the website](https://fta753.github.io/portfolio/).
+My personal website, built with HTML and CSS.
 
-Open `index.html` in a browser. Edit its text and links to update the page; edit `style.css` to change its appearance. No installation or build step.
-
-GitHub Pages publishes `main` from the repository root.
+[Website](https://fta753.github.io/portfolio/)
